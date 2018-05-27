@@ -1,4 +1,4 @@
-![img](https://upload.wikimedia.org/wikipedia/commons/1/13/Disneyland_Park_Logo.svg)
+![img](https://en.wikipedia.org/wiki/Westworld_(TV_series)#/media/File:Westworld_(TV_series)_title_card.jpg)
 
 
-这是一个梦幻乐园。在这里，将记录我接下来我一生看过的书籍、电影、电视剧。
+西部世界是我很喜欢看的美剧，描述了存在于现实中的法外之地。在这里，将记录我接下来我一生看过的书籍、电影、电视剧。
