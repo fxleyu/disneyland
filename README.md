@@ -7,3 +7,5 @@
 - 书籍
 - 笔记
 - 复盘记录
+
+https://github.com/fxleyu/precious-deposits/issues/69#issuecomment-428066936
