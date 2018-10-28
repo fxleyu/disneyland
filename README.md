@@ -9,3 +9,16 @@
 - 复盘记录
 
 https://github.com/fxleyu/precious-deposits/issues/69#issuecomment-428066936
+
+# 电影
+
+
+# 阅读列表
+## 技术
+- [重构 : 改善既有代码的设计](https://github.com/fxleyu/west-world/issues/90)（在读，2018.10.27 开始）
+- [Netty 实战](https://github.com/fxleyu/west-world/issues/88)(在读)
+- [代码整洁之道 : 程序员的职业素养](https://github.com/fxleyu/west-world/issues/87)
+- [Java 并发编程的艺术](https://github.com/fxleyu/west-world/issues/86) (已完成第一遍)
+- []()
+
+## 人文
