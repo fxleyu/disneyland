@@ -17,10 +17,13 @@ https://github.com/fxleyu/precious-deposits/issues/69#issuecomment-428066936
 ## 技术
 ### 基础
 - [计算机网络](https://github.com/fxleyu/west-world/issues/91)
-- [重构](https://github.com/fxleyu/west-world/issues/90)（在读，2018.10.27 开始）
 - [Netty 实战](https://github.com/fxleyu/west-world/issues/88)(在读)
-- [代码整洁之道](https://github.com/fxleyu/west-world/issues/87)
 - [Java 并发编程的艺术](https://github.com/fxleyu/west-world/issues/86) (已完成第一遍)
+
+### 工程
+- [代码整洁之道](https://github.com/fxleyu/west-world/issues/87)
+- [重构](https://github.com/fxleyu/west-world/issues/90)（在读，2018.10.27 开始）
+- [重构与模式](https://github.com/fxleyu/west-world/issues/93)(在读，2018.11.01 开始)
 
 ### 分布式
 - [从 Paxos 到 Zookeeper](https://github.com/fxleyu/west-world/issues/92)
