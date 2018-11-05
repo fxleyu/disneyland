@@ -30,4 +30,8 @@ https://github.com/fxleyu/precious-deposits/issues/69#issuecomment-428066936
 - [Redis 实战](https://github.com/fxleyu/west-world/issues/13)
 
 ## 人文
+### 哲学
 - [大问题](https://github.com/fxleyu/west-world/issues/94)
+
+### 工作
+- [重来](https://github.com/fxleyu/west-world/issues/71)
