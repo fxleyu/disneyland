@@ -29,10 +29,15 @@ https://github.com/fxleyu/precious-deposits/issues/69#issuecomment-428066936
 ### 分布式
 - [从 Paxos 到 Zookeeper](https://github.com/fxleyu/west-world/issues/92)
 - [Redis 实战](https://github.com/fxleyu/west-world/issues/13)
+- [深入 RabbitMQ]
 
 ## 人文
 ### 哲学
+- [你的第一本哲学书]
 - [大问题](https://github.com/fxleyu/west-world/issues/94)
 
 ### 工作
 - [重来](https://github.com/fxleyu/west-world/issues/71)
+
+### 其他
+- [今日简史]
