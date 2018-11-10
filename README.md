@@ -34,10 +34,12 @@ https://github.com/fxleyu/precious-deposits/issues/69#issuecomment-428066936
 ## 人文
 ### 哲学
 - [你的第一本哲学书]
+- [中国哲学简史]
 - [大问题](https://github.com/fxleyu/west-world/issues/94)
 
-### 工作
+### 生活
 - [重来](https://github.com/fxleyu/west-world/issues/71)
+- [我在哈佛的最后一堂课]
 
 ### 其他
 - [今日简史]
