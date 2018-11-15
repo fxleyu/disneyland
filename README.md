@@ -17,6 +17,7 @@ https://github.com/fxleyu/precious-deposits/issues/69#issuecomment-428066936
 # 阅读列表
 ## 技术
 ### 基础
+- [跟阿铭学Linux](https://book.douban.com/subject/26005630/)
 - [计算机网络](https://github.com/fxleyu/west-world/issues/91)
 - [Netty 实战](https://github.com/fxleyu/west-world/issues/88)(在读)
 - [Java 并发编程的艺术](https://github.com/fxleyu/west-world/issues/86) (已完成第一遍)
