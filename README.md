@@ -39,7 +39,7 @@ https://github.com/fxleyu/precious-deposits/issues/69#issuecomment-428066936
 
 ## 人文
 ### 哲学
-- [你的第一本哲学书]
+- [你的第一本哲学书](https://github.com/fxleyu/west-world/issues/96)
 - [中国哲学简史]
 - [大问题](https://github.com/fxleyu/west-world/issues/94)
 
