@@ -42,6 +42,7 @@ https://github.com/fxleyu/precious-deposits/issues/69#issuecomment-428066936
 - [你的第一本哲学书](https://github.com/fxleyu/west-world/issues/96)
 - [中国哲学简史]
 - [大问题](https://github.com/fxleyu/west-world/issues/94)
+- [惊呆了！哲学这么好](https://github.com/fxleyu/west-world/issues/95)
 
 ### 生活
 - [重来](https://github.com/fxleyu/west-world/issues/71)
