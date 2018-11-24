@@ -22,6 +22,10 @@ https://github.com/fxleyu/precious-deposits/issues/69#issuecomment-428066936
 - [Netty 实战](https://github.com/fxleyu/west-world/issues/88)(在读)
 - [Java 并发编程的艺术](https://github.com/fxleyu/west-world/issues/86) (已完成第一遍)
 
+### Java 相关
+- [Spring 入门经典](https://github.com/fxleyu/west-world/issues/4)
+- [Spring 实战 (第 4 版)](https://book.douban.com/subject/26767354/)
+
 ### 工程
 - [代码整洁之道](https://github.com/fxleyu/west-world/issues/87)
 - [重构](https://github.com/fxleyu/west-world/issues/90)（在读，2018.10.27 开始）
