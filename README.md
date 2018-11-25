@@ -24,7 +24,7 @@ https://github.com/fxleyu/precious-deposits/issues/69#issuecomment-428066936
 
 ### Java 相关
 - [Spring 入门经典](https://github.com/fxleyu/west-world/issues/4)
-- [Spring 实战 (第 4 版)](https://book.douban.com/subject/26767354/)
+- [Spring 实战 (第 4 版)](https://github.com/fxleyu/west-world/issues/97)
 
 ### 工程
 - [代码整洁之道](https://github.com/fxleyu/west-world/issues/87)
