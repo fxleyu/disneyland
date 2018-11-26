@@ -27,7 +27,8 @@ https://github.com/fxleyu/precious-deposits/issues/69#issuecomment-428066936
 - [Spring 实战 (第 4 版)](https://github.com/fxleyu/west-world/issues/97)
 
 ### 工程
-- [代码整洁之道](https://github.com/fxleyu/west-world/issues/87)
+- [代码整洁之道](https://book.douban.com/subject/4199741/)
+- [代码整洁之道:程序员的职业素养](https://github.com/fxleyu/west-world/issues/87)
 - [重构](https://github.com/fxleyu/west-world/issues/90)（在读，2018.10.27 开始）
 - [重构与模式](https://github.com/fxleyu/west-world/issues/93)(在读，2018.11.01 开始)
 
