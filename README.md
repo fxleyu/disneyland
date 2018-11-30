@@ -20,11 +20,15 @@ https://github.com/fxleyu/precious-deposits/issues/69#issuecomment-428066936
 - [跟阿铭学Linux](https://book.douban.com/subject/26005630/)
 - [计算机网络](https://github.com/fxleyu/west-world/issues/91)
 - [Netty 实战](https://github.com/fxleyu/west-world/issues/88)(在读)
-- [Java 并发编程的艺术](https://github.com/fxleyu/west-world/issues/86) (已完成第一遍)
 
-### Java 相关
+### Java 体系
+- Java 编程思想
+- [Java 并发编程的艺术](https://github.com/fxleyu/west-world/issues/86) (已完成第一遍)
+- 深入理解 Java 虚拟机
+- Java 性能优化权威指南
 - [Spring 入门经典](https://github.com/fxleyu/west-world/issues/4)
 - [Spring 实战 (第 4 版)](https://github.com/fxleyu/west-world/issues/97)
+- Spring 源码深度解析
 
 ### 工程
 - [代码整洁之道](https://book.douban.com/subject/4199741/)
