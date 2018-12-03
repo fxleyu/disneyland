@@ -52,6 +52,7 @@ https://github.com/fxleyu/precious-deposits/issues/69#issuecomment-428066936
 - [中国哲学简史]
 - [大问题](https://github.com/fxleyu/west-world/issues/94)
 - [惊呆了！哲学这么好](https://github.com/fxleyu/west-world/issues/95)
+- [禅与摩托车维修艺术](https://book.douban.com/subject/6811366/)
 
 ### 生活
 - [重来](https://github.com/fxleyu/west-world/issues/71)
