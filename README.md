@@ -9,6 +9,8 @@
 - 笔记
 - 复盘记录
 
+总结 https://github.com/fxleyu/west-world/wiki 
+
 https://github.com/fxleyu/precious-deposits/issues/69#issuecomment-428066936
 
 # 电影
