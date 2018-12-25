@@ -38,6 +38,8 @@ https://github.com/fxleyu/precious-deposits/issues/69#issuecomment-428066936
 - [架构整洁之道](https://book.douban.com/subject/30333919/)
 - [重构](https://github.com/fxleyu/west-world/issues/90)（在读，2018.10.27 开始）
 - [重构与模式](https://github.com/fxleyu/west-world/issues/93)(在读，2018.11.01 开始)
+- [人月神话]
+- [软技能]
 
 ### 分布式
 - [从 Paxos 到 Zookeeper](https://github.com/fxleyu/west-world/issues/92)
