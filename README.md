@@ -35,7 +35,7 @@ https://github.com/fxleyu/precious-deposits/issues/69#issuecomment-428066936
 ### 工程
 - [代码整洁之道](https://github.com/fxleyu/west-world/issues/98)
 - [代码整洁之道:程序员的职业素养](https://github.com/fxleyu/west-world/issues/87)
-- [架构整洁之道](https://book.douban.com/subject/30333919/)
+- [架构整洁之道](https://github.com/fxleyu/west-world/issues/102)（在读）
 - [重构](https://github.com/fxleyu/west-world/issues/90)（在读，2018.10.27 开始）
 - [重构与模式](https://github.com/fxleyu/west-world/issues/93)(在读，2018.11.01 开始)
 - [人月神话]
