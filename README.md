@@ -5,15 +5,12 @@
 - 笔记
 - 复盘记录
 
-总结 https://github.com/fxleyu/west-world/wiki 
+# 总结 
+https://github.com/fxleyu/west-world/wiki 
 
 https://github.com/fxleyu/precious-deposits/issues/69#issuecomment-428066936
 
 阅读的电影书籍不再 GitHub 中进行记录，移至[豆瓣](https://www.douban.com/people/fxleyu/)。
-
-# 电影
-- 无问西东
-- 湮灭
 
 # 阅读列表
 ## 技术
