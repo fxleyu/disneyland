@@ -62,3 +62,6 @@ https://github.com/fxleyu/precious-deposits/issues/69#issuecomment-428066936
 ### 其他
 - [今日简史]
 - [程序员的思维修炼](https://book.douban.com/subject/5372651/)
+
+
+### 关注人文
