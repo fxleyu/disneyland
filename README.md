@@ -32,3 +32,5 @@ https://github.com/fxleyu/precious-deposits/issues/69#issuecomment-428066936
 
 
 ### 关注人文
+
+最近生活很糟糕
